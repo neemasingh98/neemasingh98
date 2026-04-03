@@ -27,7 +27,7 @@
     <td align="center" width="100"><a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" width="45" /></a><br>Python</td>
     <td align="center" width="100"><a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="45" /></a><br>Git</td>
     <td align="center" width="100"><a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="45" /></a><br>GitHub</td>
-    <td align="center" width="100"><a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" width="45" /></a><br>Postman</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=postman" width="45" /></a><br>Postman</td>
   </tr>
 </table>
 
