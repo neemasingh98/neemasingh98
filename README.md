@@ -5,7 +5,7 @@
 ### 📱 About Me:
 
 🚀  Passionate about building mobile applications using Flutter.  
-📚  Currently learning Advanced State Management and Backend Integration.
+✨  Currently working on advanced state management and backend integration using Flutter.
 
 ---
 
