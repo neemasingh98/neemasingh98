@@ -50,6 +50,11 @@
 ### 📊 GitHub Stats:
 
 <p align="start">
+  <img src="https://github-readme-stats.vercel.app/api?username=neemasingh98&show_icons=true&theme=dark&bg_color=000000&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neemasingh98&layout=compact&theme=dark&bg_color=000000&hide_border=true" height="150" />
+</p>
+
+<p align="start">
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=neemasingh98&theme=dark&background=000000&hide_border=true" alt="streak" />
 </p>
