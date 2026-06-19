@@ -18,7 +18,7 @@
     <td align="center" width="100"><a href="https://www.w3schools.com/cpp/"><img src="https://skillicons.dev/icons?i=cpp" width="45" /></a><br>C++</td>
     <td align="center" width="100"><a href="https://developer.apple.com/swift/"><img src="https://skillicons.dev/icons?i=swift" width="45" /></a><br>Swift</td>
     <td align="center" width="100"><a href="https://kotlinlang.org"><img src="https://skillicons.dev/icons?i=kotlin" width="45" /></a><br>Kotlin</td>
-    <td align="center" width="100"><a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" width="45" /></a><br>Node.js</td>
+    <td align="center" width="100"><a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" width="45" /></a><br>Docker</td>
   </tr>
   <tr height="25"></tr>
   <tr>
