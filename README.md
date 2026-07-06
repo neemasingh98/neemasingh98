@@ -20,6 +20,9 @@
   <tr>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=firebase" width="45" /><br>Firebase</td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=supabase" width="45" /><br>Supabase</td>
+  </tr>
+  <tr height="25"></tr>
+  <tr>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=git" width="45" /><br>Git</td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=github" width="45" /><br>GitHub</td>
   </tr>
